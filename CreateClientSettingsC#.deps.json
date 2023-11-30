@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CreateClientSettingsC#/1.0.0": {
+        "runtime": {
+          "CreateClientSettingsC#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreateClientSettingsC#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
