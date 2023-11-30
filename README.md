@@ -4,5 +4,6 @@ Roblox fps unlocker
 
 # Running
 
-1. Extract zip file
-2. Run "rbxfpsplus.exe"
+1. Download zip file
+2. Extract zip file
+3. Run "rbxfpsplus.exe" (windows defender will give you a promt, just click "More info", then click "Run anyway")
